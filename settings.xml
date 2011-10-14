@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.5.0_06" class="java.beans.XMLDecoder"> 
+ <object class="net.usenet.PosterSettings"> 
+  <void property="commentOne"> 
+   <string>SuperPoster V0.1 Test</string> 
+  </void> 
+  <void property="commentTwo"> 
+   <string>SuperPoster Comment 2</string> 
+  </void> 
+  <void property="connectTimeoutMs"> 
+   <int>2000</int> 
+  </void> 
+  <void property="hostName"> 
+   <string>news.giganews.com</string> 
+  </void> 
+  <void property="newsgroup"> 
+   <string>alt.binaries.test</string> 
+  </void> 
+  <void property="passWord"> 
+   <string>password_here</string> 
+  </void> 
+  <void property="port"> 
+   <int>119</int> 
+  </void> 
+  <void property="requiresLogin"> 
+   <boolean>true</boolean> 
+  </void> 
+  <void property="requiresSSL"> 
+   <boolean>false</boolean> 
+  </void> 
+  <void property="userName"> 
+   <string>username_here</string> 
+  </void> 
+ </object> 
+</java> 
